@@ -1,0 +1,29 @@
+﻿body {
+    background-color: antiquewhite;
+    font-family: David;
+    color: black;
+}
+
+
+table {
+    background-color: wheat;
+}
+
+image{
+    padding: 10px 10px;
+    background-color: wheat;
+}
+a:link, a:visited {
+    width: 200px;
+    padding: 20px 0px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: cyan;
+    color: white;
+}
